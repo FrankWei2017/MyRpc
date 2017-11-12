@@ -1,0 +1,6 @@
+com\dxc\rpc\registry\ServiceRegistry.class
+com\dxc\rpc\registry\Constant.class
+com\dxc\rpc\registry\ServiceDiscovery.class
+com\dxc\rpc\registry\ServiceRegistry$1.class
+com\dxc\rpc\registry\ServiceDiscovery$1.class
+com\dxc\rpc\registry\ServiceDiscovery$2.class

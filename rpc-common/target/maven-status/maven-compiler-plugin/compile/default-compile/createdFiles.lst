@@ -1,0 +1,5 @@
+com\dxc\rpc\common\SerializationUtil.class
+com\dxc\rpc\common\RpcRequest.class
+com\dxc\rpc\common\RpcEncoder.class
+com\dxc\rpc\common\RpcResponse.class
+com\dxc\rpc\common\RpcDecoder.class
